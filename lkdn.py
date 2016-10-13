@@ -1,7 +1,4 @@
-from bs4 import BeautifulSoup
 from selenium import webdriver
-import math
-import time
 #%%
 driver = webdriver.Firefox()
 linkedin_link='https://www.linkedin.com/'

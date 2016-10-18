@@ -3,9 +3,9 @@ from selenium import webdriver
 def linkedin_connect(driver, username, password):
     linkedin_link='https://www.linkedin.com/'
     driver.get(linkedin_link)
-    
-    
-    
+
+
+
     driver.find_element_by_id('login-email').clear()
     driver.find_element_by_id('login-email').send_keys(username)
     driver.find_element_by_id('login-password').clear()
@@ -19,7 +19,7 @@ def get_profile_info(driver, url):
     infos['title'] = driver.find_element_by_class_name('title').text
     infos['current_employer'] =  driver.find_element_by_id('overview-summary-current').find_element_by_tag_name('td').find_element_by_tag_name('a').text
     infos['previous_employer'] =  driver.find_element_by_id('overview-summary-past').find_element_by_tag_name('td').find_element_by_tag_name('a').text
-    infos['colleges']=[]    
+    infos['colleges']=[]
     colleges = driver.find_element_by_id('background-education').find_elements_by_class_name('editable-item')
     for college in colleges:
         college_infos = {}
@@ -34,7 +34,7 @@ def get_profile_info(driver, url):
     infos['profile_link'] = url
     return(infos)
 
-#%%
-driver = webdriver.Firefox()
-linkedin_connect(driver, 'h2558600@mvrht.com','azedsq')
-print(get_profile_info(driver, 'https://www.linkedin.com/in/warren-chandler-622b78a'))
+if __name__ == '__main__':
+    driver = webdriver.Firefox()
+    linkedin_connect(driver, 'h2558600@mvrht.com','azedsq')
+    print(get_profile_info(driver, 'https://www.linkedin.com/in/warren-chandler-622b78a'))

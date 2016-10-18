@@ -16,7 +16,7 @@ import time
 def SD_connect(driver, doc_type, from_date, to_date):
     SD_link='https://arcc-acclaim.sdcounty.ca.gov/search/SearchTypeDocType'
     driver.get(SD_link)
-    driver.find_element_by_id('btnButton').click()    
+    driver.find_element_by_id('btnButton').click()
     driver.find_element_by_id('DocTypesDisplay-input').clear()
     driver.find_element_by_id('DocTypesDisplay-input').send_keys(doc_type)
     driver.find_element_by_id('DocTypesDisplay-input').send_keys(Keys.TAB)
@@ -26,16 +26,16 @@ def SD_connect(driver, doc_type, from_date, to_date):
     driver.find_element_by_id('RecordDateFrom').send_keys(Keys.TAB)
     driver.find_element_by_id('RecordDateTo').clear()
     driver.find_element_by_id('RecordDateTo').send_keys(to_date)
-    driver.find_element_by_id('btnSearch').submit()   
+    driver.find_element_by_id('btnSearch').submit()
     time.sleep(10)
     print (time)
     infos = {}
     print (infos)
     infos['Page 1'] = driver.find_element_by_tag_name('table').find_element_by_tag_name('tbody').driver.find_elements_by_tag_name('tr').driver.find_elements_by_tag_name('td').text
 #    infos['Record Date'] = driver.find_element_by_class_name('formInput').text
-    print (infos) 
+    print (infos)
     return infos
-#%%    
+#%%
 
 
 #%%

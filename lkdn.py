@@ -8,9 +8,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from selenium.webdriver.common.by import By
-#%%
+
+
 def do_search(driver, url):
-    url_profiles_file = open('url_profiles_linkedin1.txt','w')
+    url_profiles_file = open('url_profiles_linkedin1.txt', 'w')
     driver.get(url + '1')
     result_count = int(driver.find_element_by_id('results_count').text.split(' ')[0].replace(',',''))
     nb_pages = min(math.ceil(result_count/10),100)

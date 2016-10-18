@@ -9,15 +9,14 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from selenium.webdriver.common.by import By
 #%%
-def do_search(driver):
-    url_profiles_file = open('url_profiles_linkedin.txt','r')
-    url='https://www.linkedin.com/vsearch/p?title=CIO&openAdvancedForm=true&titleScope=CP&locationType=Y&f_G=us%3A0&f_I=14&rsid=5254215521475780977923&orig=ADVS&page_num='
+def do_search(driver, url):
+    url_profiles_file = open('url_profiles_linkedin1.txt','w')
     driver.get(url + '1')
     result_count = int(driver.find_element_by_id('results_count').text.split(' ')[0].replace(',',''))
     nb_pages = min(math.ceil(result_count/10),100)
     url_profiles=[]
     start = time.time()
-    
+
     for i in range(nb_pages):
         print(i)
         driver.get(url + str(i+1))
@@ -31,8 +30,9 @@ def do_search(driver):
         for guy in a:
             guy_url = guy.find_element_by_class_name('result-image').get_attribute('href')
             url_profiles.append(guy_url)
+            print(guy_url)
             url_profiles_file.write(str(guy_url) + '\n')
-    
+
     print('It took ' + str((time.time() - start)/1000) + ' seconds!')
 
 url_profiles = [line.strip() for line in open('url_profiles_linkedin.txt','r')]
@@ -82,16 +82,16 @@ def get_profile_info(driver, url):
             college_infos = {}
             college_infos['college_name'] = college.find_element_by_class_name('summary').text
             try:
-                college_infos['degree'] = college.find_element_by_class_name('degree').text   
+                college_infos['degree'] = college.find_element_by_class_name('degree').text
             except NoSuchElementException:
                 pass
-            try:        
+            try:
                 college_infos['major'] = college.find_element_by_class_name('major').text
             except NoSuchElementException:
                 pass
-    
+
             times = college.find_element_by_class_name('education-date').find_elements_by_tag_name('time')
-            if times:        
+            if times:
                 college_infos['starting_date'] = times[0].text
                 if len(times)>1:
                     college_infos['ending_date'] = times[1].text[2::]
@@ -100,7 +100,7 @@ def get_profile_info(driver, url):
         print("profile incomplete")
     infos['profile_link'] = url[:url.index('?')]
 
-    try:    
+    try:
         phones = []
         text = driver.find_element_by_id('profile').text
         for groups in phoneRegex.findall(text):
@@ -110,7 +110,7 @@ def get_profile_info(driver, url):
                 phones.append(phoneNum)
         if len(phones) > 0:
             infos['email'] = ', '.join(phones)
-        
+
         emails=[]
         for groups in emailRegex.findall(text):
             emails.append(groups[0])
@@ -118,12 +118,12 @@ def get_profile_info(driver, url):
             infos['email'] = ', '.join(emails)
     except NoSuchElementException:
         print('weird profile')
-        
-    
+
+
     return(infos)
 
 def scrape_all_profiles(driver, url_profiles, start):
-    profiles_info_file = open('profiles_info.txt','w')
+    profiles_info_file = open('profiles_info1.txt','w')
     count = 0
     success_count = 0
     for i in range(start,len(url_profiles)):
@@ -133,13 +133,13 @@ def scrape_all_profiles(driver, url_profiles, start):
         try:
             WebDriverWait(driver, 2).until(
                 EC.presence_of_element_located((By.ID, "headline"))
-            )            
+            )
             print("Page is ready!", count)
         except TimeoutException:
             try:
                 WebDriverWait(driver, 2).until(
                     EC.presence_of_element_located((By.ID, "pagekey-uas-consumer-login-internal"))
-                ) 
+                )
                 print('got caught')
                 return(start+count)
             except TimeoutException:
@@ -159,7 +159,10 @@ def scrape_all_profiles(driver, url_profiles, start):
 #%%
 profiles_infos=[]
 driver = webdriver.Firefox()
-linkedin_connect(driver, 'h3005628@mvrht.com','azedsq')
+linkedin_connect(driver, 'h3035263@mvrht.com','azedsq')
+url3 = 'https://www.linkedin.com/vsearch/p?title=CIO&openAdvancedForm=true&titleScope=CP&locationType=Y&f_G=us%3A0&f_I=14&rsid=5254215521475780977923&orig=ADVS&page_num='
+url1 = 'https://www.linkedin.com/vsearch/p?openAdvancedForm=true&locationType=Y&f_G=us%3A0&f_I=52&rsid=5276500031476750138270&orig=ADVS&page_num='
+do_search(driver, url1)
 scrape_all_profiles(driver, url_profiles, 2060)
 profiles_infos_no_dup=[i for n, i in enumerate(profiles_infos) if i not in profiles_infos[n + 1:]]
 
@@ -175,7 +178,7 @@ for person in profiles_infos_no_dup:
         pass
     except KeyError:
         pass
-            
+
 
 
 
@@ -185,15 +188,9 @@ import csv
 
 #keys=profiles_infos_no_dup[23].keys()
 keys = ['name', 'title', 'current_employer', 'email', 'previous_employer', 'profile_link', 'college_name', 'starting_date', 'ending_date', 'major', 'degree']
-with open('profiles_info.csv', 'w') as output_file:
+with open('profiles_info1.csv', 'w') as output_file:
     dict_writer = csv.DictWriter(output_file, keys)
     dict_writer.writeheader()
     dict_writer.writerows(profiles_infos_no_dup)
 
 #%%
-
-
-
-
-
-

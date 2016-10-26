@@ -14,16 +14,14 @@ import getpass
 import openpyxl
 
 
-#remplace le for i in range par un while do qui se desincrement de 1 a chaque fois. 
-#permettre connection de tous les servers
-
+#update necessaire: mettre plusieurs addresses mails dans le champs "to"
 
 def email_login(server):
     #login to the email server    
     server.ehlo()
     server.starttls()
     server.ehlo()
-    username=input('What is your username? ')
+    username=input('What is your Gmail username? ')
     password=getpass.getpass()
     server.login(username, password)
 
@@ -59,13 +57,21 @@ def load_excel_file(excel_file_name):
 
 def email_paramter_with_excel(sheet,i):       
     #i is the number of the line in the excel sheet where you get your data from
-    to =(sheet[('E'+str(i))].value)    #Put the column of mail adresses. For sending the email to multiple people, just write the email adresses seprated with a ','
-    type(to)
-    message = str("Dear " + sheet[('B'+str(i))].value+ '<br>' +   # Write message here. each <br> sets a new line
-    "ton nom de famille est: " + sheet[('C'+str(i))].value + '<br>' +
-    "j'espère que tout se passe bien pour toi dans ta startup: " + sheet[('D'+str(i))].value)
+    to =(sheet[('C'+str(i))].value)    #Put the column of mail adresses. For sending the email to multiple people, just write the email adresses seprated with a ','
+    
+    message = str(                    # Write message here. each <br> sets a new line
+    "Dear " + sheet[('A'+str(i))].value + '<br>' +   
+    "I hope everything is fine for you at " + sheet[('D'+str(i))].value + '<br>' +
+    "If you ever have to do a painful computer related task, just ask Bob" + '<br>' +
+    "He is available at this adress : https://retdop.github.io" + '<br>' +
+    "See you soon," + '<br>' +
+    "" + '<br>' +
+    "Gautier, Edouard et Gabi" + '<br>' +
+    "" + '<br>' +
+    "Ps: this gif is you before and after using bob : http://i.imgur.com/ZgrSBBc.gifv" 
+    )
 
-    subject=("Salut mon bon " + sheet[('B'+str(i))].value)
+    subject=("Urgent message for the founders of " + sheet[('D'+str(i))].value)
         
     frm=('gautierchenard@gmail.com')
     
@@ -81,7 +87,7 @@ def send_multiples_emails(server,excel_file_name):
     email_login(server)
     sheet=load_excel_file(excel_file_name)
     count=number_of_rows_in_excel(sheet)  
-    i=2    #i the the line you get the datat from on the excel
+    i=2    #i the the first line you get the data from on the excel (do not count the header)
     while i <= count:    # go through each line of the excel
         (frm, to, message, subject) = email_paramter_with_excel(sheet,i)
         
@@ -94,12 +100,13 @@ def send_multiples_emails(server,excel_file_name):
         send_email(frm, to, message, subject)
         i+=1
     quit_server(server)
+
 if '__name__' == '__main__':
     
     server = SMTP('smtp.gmail.com:587')
-            # Find your SMTP server name : http://www.serversmtp.com/en/what-is-my-smtp
-    excel_file_name='contcts_mails.xlsx'
-            
+                # Find your SMTP server name : http://www.serversmtp.com/en/what-is-my-smtp
+    excel_file_name='../dumps/L2L_contacts_for_Bob.xlsx'
+                
     send_multiples_emails(server, excel_file_name)
 
 

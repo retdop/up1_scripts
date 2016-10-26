@@ -1,9 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Oct 20 16:26:30 2016
+Created on Tue Oct 25 17:51:21 2016
 
 @author: gchenard
+"""
 
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Oct 20 16:26:30 2016
+@author: gchenard
 """
 import smtplib
 from smtplib import SMTP
@@ -28,7 +33,7 @@ def email_login(server):
 def quit_server(server):
     server.quit()
 
-def send_email (frm, to, message, subject):    
+def send_email (server,frm, to, message, subject):    
     msg = MIMEMultipart('alternative')
     msg.set_charset('utf8')
     msg['FROM'] = frm
@@ -61,6 +66,7 @@ def email_paramter_with_excel(sheet,i):
     
     message = str(                    # Write message here. each <br> sets a new line
     "Dear " + sheet[('A'+str(i))].value + '<br>' +   
+    "" + '<br>' +
     "I hope everything is fine for you at " + sheet[('D'+str(i))].value + '<br>' +
     "If you ever have to do a painful computer related task, just ask Bob" + '<br>' +
     "He is available at this adress : https://retdop.github.io" + '<br>' +
@@ -97,7 +103,7 @@ def send_multiples_emails(server,excel_file_name):
         #message=input("Message:")
         #subject=input("Subject:")
         
-        send_email(frm, to, message, subject)
+        send_email(server,frm, to, message, subject)
         i+=1
     quit_server(server)
 
@@ -108,5 +114,3 @@ if '__name__' == '__main__':
     excel_file_name='../dumps/L2L_contacts_for_Bob.xlsx'
                 
     send_multiples_emails(server, excel_file_name)
-
-

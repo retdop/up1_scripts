@@ -62,6 +62,7 @@ def load_excel_file(excel_file_name):
 
 def email_paramter_with_excel(sheet,i):       
     #i is the number of the line in the excel sheet where you get your data from
+<<<<<<< 933fa756c3f0a7d905dcfd1ce4e00a78cff6a157:up1/email_from_excel_sender.py
     to =(sheet[('C'+str(i))].value)    #Put the column of mail adresses. For sending the email to multiple people, just write the email adresses seprated with a ','
     
     message = str(                    # Write message here. each <br> sets a new line
@@ -78,8 +79,16 @@ def email_paramter_with_excel(sheet,i):
     )
 
     subject=("Urgent message for the founders of " + sheet[('D'+str(i))].value)
+=======
+    to =(sheet[('E'+str(i))].value)    #Put the column of mail adresses. For sending the email to multiple people, just write the email adresses seprated with a ','
+    type(to)
+    message = str("Dear " + sheet[('B'+str(i))].value+ ',<br><br>' + sheet[('F'+str(i))].value + '<br>' +
+    "I hope everything is doing well at " + sheet[('D'+str(i))].value +  '<br><br>Cheers,<br>Gabriel')
+
+    subject=("Salut " + sheet[('B'+str(i))].value)
+>>>>>>> for mac os test:Email sender.py
         
-    frm=('gautierchenard@gmail.com')
+    frm=('gabriel.bstd@gmail.com')
     
     return (frm, to, message, subject)
     

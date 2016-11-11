@@ -135,10 +135,12 @@ def get_profile_info(driver, url):
     return(infos)
 
 
-def scrape_all_profiles(driver, url_profiles, start):
+def scrape_companies(driver):
     profiles_info_file = open('profiles_info1.txt', 'w')
     count = 0
     success_count = 0
+    start = 0
+    '/html/body/section[3]/div/div/div/ul'
     for i in range(start, len(url_profiles)):
         url = url_profiles[i]
         count += 1
@@ -181,7 +183,7 @@ def dicts_to_csv(filename, list_of_dicts, keys):
 
 if __name__=='__main__':
 
-    os.chdir('/home/gabriel/xberkeley/mvp/up1_scripts/')
+    os.chdir('/home/gabriel/xberkeley/up1/up1_scripts/')
 
     profiles_infos = []
     driver = webdriver.Firefox()

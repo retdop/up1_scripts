@@ -1,0 +1,1208 @@
+[INFO  - 2016-11-18T03:41:45.454Z] GhostDriver - Main - running on port 50531
+[INFO  - 2016-11-18T03:41:46.383Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-11-18T03:41:46.383Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.customHeaders:  - {}
+[INFO  - 2016-11-18T03:41:46.383Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-11-18T03:41:46.383Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: edfef4c0-ad40-11e6-8ff2-f184216f7888
+[ERROR - 2016-11-18T03:41:54.965Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:41:54.965Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/ORk0zrDe3ZA?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:41:56.966Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:41:56.966Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/kw0-JRa9n94?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:41:58.676Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:41:58.676Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/EpgVpmRdm5o?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:00.980Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:00.980Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/nunypMANy1M?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:03.080Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:03.080Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/dxeQVBwyh8Y?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:04.835Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:04.835Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/inPxWhaw1Hw?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:12.280Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:12.280Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/VmAWhbhqego?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:14.381Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:14.381Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/d7WVyOjaOV0?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:16.410Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:16.410Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/8UnodUYnrG8?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:18.424Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:18.424Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/lRegJIvh_2g?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:20.576Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:20.576Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/GADtniiZL9c?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:22.684Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:22.684Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/acg0fljVxH4?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:24.835Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:24.835Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/Yjp09GmH76w?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:44.798Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:44.798Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/Bqz1d2h6rkU?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:55.119Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:55.119Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/F0s4WXWTm2A?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:55.126Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:42:55.126Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/2DWHgZfHCEo?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:01.285Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:01.285Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/RJw5v6JLazU?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:03.681Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:03.682Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/MQpduphAug4?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:08.026Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:08.026Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/J6K-4VvS6Ts?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:12.165Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:12.165Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/TXPxfHbcM3Y?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:14.299Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:14.299Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/_ColFuXob2k?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:20.995Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: TypeError: undefined is not an object (evaluating 'd[f][b]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:20.995Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  l (https://secure-a.vimeocdn.com/js/froogaloop2.min.js?_=1479440600012:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:25.575Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:25.576Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/R9Dzxk5hmoM?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:27.861Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:27.861Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/pJ8UfA-3X4k?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:31.191Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: TypeError: undefined is not an object (evaluating 'd[f][b]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:31.191Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  l (https://secure-a.vimeocdn.com/js/froogaloop2.min.js?_=1479440609988:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:32.597Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:32.597Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/3SmRceJf8yU?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:34.844Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:34.844Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/_y1PxPoShXY?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:50.789Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:50.789Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/BgjFYR4xl7g?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:55.074Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:55.074Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/uUVwU22Jzbo?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:59.092Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:43:59.092Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/zI0c_dbUNhw?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:01.366Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:01.366Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/fxkX3yuSa9w?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:03.577Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:03.577Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/cX4gQLvRpLM?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:05.793Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:05.793Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/te1RBQQlHz4?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:09.302Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:09.302Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/4aMCJDOEi0k?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:11.353Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:11.354Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/023muM-tj7M?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:15.482Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:15.482Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/ftnudxcOIyo?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:17.039Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:17.039Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/PmIJCmQSQgQ?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:22.751Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:22.751Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/GARzl9LV5E0?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:24.992Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:24.992Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/EZAH7GU1MJs?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:27.343Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:27.343Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/e70RFNTKzB4?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:29.231Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:29.232Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/iuBv5e5T0Do?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:33.350Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:33.350Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/NpfWlH8XBGY?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:35.249Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:35.249Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/_1vBYvEM7_A?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:37.189Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:37.189Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/UKGiXLQl9ws?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:40.900Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:40.901Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/BCLyk3ItapQ?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:43.257Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:43.257Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/QZEnjwUqc4M?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:45.950Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:45.950Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/6xak__Y3I2Q?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:52.451Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:52.451Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/Roq4qtRxLKE?feature=oembed:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:52.768Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:52.768Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/Roq4qtRxLKE?feature=oembed&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:54.755Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:54.755Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/mrHGBkHYA-g?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:56.698Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:44:56.698Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/yFigQnhxPY0?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:45:02.680Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479440701677
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:45:32.562Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:45:32.562Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/kDBKddbNK8g?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:45:34.678Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:45:34.678Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/IPxFVfq8a38?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:45:47.322Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: TypeError: undefined is not an object (evaluating 'd[f][b]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:45:47.322Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  l (https://secure-a.vimeocdn.com/js/froogaloop2.min.js?_=1479440745722:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:45:49.055Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:45:49.055Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/10v_gCeKQC8?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:45:52.707Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:45:52.707Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/by8ob_oGbdk?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:45:54.430Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:45:54.430Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/e_kqul-utj0?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:00.645Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:00.645Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/Urvm1b2JWQo?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:05.241Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:05.241Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/xxHkVSGjBbM?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:07.396Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:07.396Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/oBPQFgDZQaM?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:11.628Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:11.628Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/twotV1gntbQ?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:15.005Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:15.005Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/pwGtcwzus5s?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:20.523Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:20.523Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/FzZA-oeBopQ?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:25.962Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:25.962Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/l8F51OPJKAw?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:28.157Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:28.157Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/9SZldrmCg10?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:30.594Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: TypeError: undefined is not an object (evaluating 'd[f][b]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:30.594Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  l (https://secure-a.vimeocdn.com/js/froogaloop2.min.js?_=1479440789606:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:32.011Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:32.011Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/q69VNvq374M?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:38.323Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:38.323Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/c8xjXqC9m2A?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-11-18T03:46:45.454Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-11-18T03:46:45.583Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:45.583Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/ihS6fx6JUTQ?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:55.658Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:46:55.658Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/PUYlPgJmqCA?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:47:02.203Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479440821638
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:47:17.575Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:47:17.576Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/aO3TAke7_MI?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:47:19.063Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:47:19.063Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/ozmiNLTX4gA?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:47:34.848Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:47:34.848Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/1eYSXuaMN0M?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:47:49.015Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: TypeError: undefined is not an object (evaluating 'd[f][b]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:47:49.015Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  l (https://secure-a.vimeocdn.com/js/froogaloop2.min.js?_=1479440867804:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:47:55.883Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:47:55.883Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/FeLqI2OzFJE?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:03.686Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:03.686Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/pVXr3luEJLc?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:08.811Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:08.811Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/upjWuN93w5w?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:12.152Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:12.153Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/uSCQT0Vlh4Y?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:18.607Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:18.607Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/LxmTAk_Wrds?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:37.340Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:37.340Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/E2fE4tYau0c?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:39.176Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:39.176Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/vD2FeNtQoxY?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:39.228Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:39.228Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/01eXaBleAC8?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:41.540Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:41.540Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/BgopthKaQY4?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:41.587Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:41.587Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/IFDE72fcJ5A?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:47.955Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:47.955Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/CA6JcVrazuU?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:50.198Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:50.198Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/xabOf8ut2IA?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:52.283Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:52.283Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/Ut1MjgC2Zm0?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:54.491Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:54.492Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/aIq2POeN2kM?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:58.876Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:48:58.876Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/ZIcMmIhQOi0?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:03.095Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:03.095Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/cML814JD09g?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:05.243Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:05.243Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/_SoDKhvIQlo?feature=oembed&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:07.477Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:07.477Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/IeaLgPMGzkQ?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:12.270Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: TypeError: undefined is not an object (evaluating 'd[f][b]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:12.270Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  l (https://secure-a.vimeocdn.com/js/froogaloop2.min.js?_=1479440951072:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:14.089Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:14.090Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/ZY4r13LIfyQ?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:16.242Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:16.242Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/ZrCe5WA5-jc?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:25.291Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479440965154
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:43.386Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:43.386Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/5KaFDmVmDVw?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:59.340Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:49:59.340Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/9hrDR295tTM?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:03.397Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:03.397Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/FgIj1Z0hbO0?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:06.000Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: TypeError: undefined is not an object (evaluating 'd[f][b]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:06.001Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  l (https://secure-a.vimeocdn.com/js/froogaloop2.min.js?_=1479441005188:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:08.089Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:08.089Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/0qphBc15FLA?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:12.657Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:12.657Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/pwGtcwzus5s?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:18.685Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:18.686Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/hjPRxMRvod4?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:21.028Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:21.028Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/yFigQnhxPY0?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:29.510Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:29.510Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/kJtxe-S-VNI?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:33.607Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:33.608Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/qsgBVo7vVcM?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:50:55.951Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441051403
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:05.611Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:05.611Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/30rcVwnarKE?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:11.966Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:11.966Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/yFigQnhxPY0?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:16.014Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:16.014Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/UfKiaCHunYg?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:29.266Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441089253
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:31.533Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:31.533Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/GmdXJy_IdNw?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:32.011Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441091998
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:33.757Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:33.757Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/9JhhqEP1HSQ?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:35.546Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441095525
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:38.561Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441098550
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:40.480Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:40.480Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/mRTgiNBlxGs?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:40.491Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:40.491Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/h1YnwySAzsc?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:40.531Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:40.532Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/Wx-APtfWivQ?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:41.094Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441101086
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:45.141Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:45.141Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/jmoakreZRB0?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-11-18T03:51:45.454Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-11-18T03:51:45.496Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441105487
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:48.770Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441108759
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:55.159Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: trends
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:55.159Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (http://www.google.com/trends/fetchComponent?hl=us&q=vr+porno&cmpt=q&tz=Etc/GMT-2&tz=Etc/GMT-2&content=1&cid=TOP_QUERIES_0_0&export=5&w=1000&h=400:287)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:56.188Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441116175
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:58.594Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:51:58.594Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/CbbApo23_qI?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:52:07.067Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441127056
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:52:09.690Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441129680
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:52:28.648Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:52:28.648Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/pCF4RDd6xVg?start=1&feature=oembed&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:52:29.378Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: THREE.WebGLRenderer: Error creating WebGL context.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:52:29.378Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  WebGLRenderer (http://storage.googleapis.com/vrview/build/vrview-analytics.js:21846)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:52:29.378Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: TypeError: null is not an object (evaluating 'gl.getExtension')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:52:29.378Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  get (http://storage.googleapis.com/vrview/build/vrview-analytics.js:25653)
+  WebGLRenderer (http://storage.googleapis.com/vrview/build/vrview-analytics.js:21852)
+  init (http://storage.googleapis.com/vrview/build/vrview-analytics.js:43414)
+  PhotosphereRenderer (http://storage.googleapis.com/vrview/build/vrview-analytics.js:43403)
+  (anonymous function) (http://storage.googleapis.com/vrview/build/vrview-analytics.js:43217)
+  s (http://storage.googleapis.com/vrview/build/vrview-analytics.js:1)
+  (anonymous function) (http://storage.googleapis.com/vrview/build/vrview-analytics.js:1)
+  (anonymous function) (http://storage.googleapis.com/vrview/build/vrview-analytics.js:44187)
+  s (http://storage.googleapis.com/vrview/build/vrview-analytics.js:1)
+  e (http://storage.googleapis.com/vrview/build/vrview-analytics.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:52:30.234Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441150224
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:52:56.081Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:52:56.081Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/1eYSXuaMN0M?feature=oembed&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:52:59.481Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441179472
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:53:15.532Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441195522
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:53:35.122Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:53:35.122Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/1eYSXuaMN0M?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:53:51.657Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:53:51.658Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/CQWYNqSteVU?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:53:52.040Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441232030
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:54:05.184Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441245177
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:54:07.623Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441247608
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:54:13.601Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441253581
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:54:14.301Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:54:14.301Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/bnYg752URcE?feature=oembed&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:54:16.535Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441256526
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:54:27.804Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441267796
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:54:53.940Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:54:53.940Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/rbH6OEK7GA4?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:08.494Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: TypeError: undefined is not an object (evaluating 'd[f][b]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:08.494Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  l (https://secure-a.vimeocdn.com/js/froogaloop2.min.js?_=1479441306830:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:09.783Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:09.783Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/kXvOmnw2mF8?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:16.447Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: TypeError: undefined is not an object (evaluating 'd[f][b]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:16.448Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  l (https://secure-a.vimeocdn.com/js/froogaloop2.min.js?_=1479441315717:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:28.347Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:28.347Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/FeLqI2OzFJE?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:30.339Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:30.339Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/FXPQgvBVcw0?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:32.247Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:32.247Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/BHQhD-4kVlU?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:32.262Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:32.262Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/N3-iDDqnlng?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:34.290Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:34.290Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/IeaLgPMGzkQ?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:38.105Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:38.105Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/ozmiNLTX4gA?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:44.331Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:44.331Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/Ks2QUYlbvqM?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:48.393Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:48.393Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/eNpvru24GwE?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:51.109Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:51.109Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/VvkkER8hae0?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:53.234Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:53.234Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/nknVuJwsFBI?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:55.619Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:55:55.619Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/e_kqul-utj0?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:56:04.144Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:56:04.144Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/ZrCe5WA5-jc?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:56:08.497Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:56:08.497Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/kDBKddbNK8g?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:56:22.068Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:56:22.068Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/hoGwOXLqquo?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:56:28.082Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:56:28.082Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/aO3TAke7_MI?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:56:34.255Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:56:34.255Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/HzrV-WtfAYo?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:56:42.913Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:56:42.913Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/UfKiaCHunYg?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-11-18T03:56:45.454Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-11-18T03:56:48.008Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1479441407752
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:05.275Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:05.276Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/lxZhHiV_SlA?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:11.360Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:11.361Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/MAvMLnR6fLc?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:29.028Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:29.028Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/RcPy6coC1bM?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:31.148Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:31.148Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/Y0xNbnvTt0c?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:33.221Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:33.221Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/KgloGxiTtZA?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:39.148Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:39.148Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/CbbApo23_qI?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:47.770Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:47.770Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/9hrDR295tTM?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:50.203Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: TypeError: undefined is not an object (evaluating 'd[f][b]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:50.203Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  l (https://secure-a.vimeocdn.com/js/froogaloop2.min.js?_=1479441469508:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:52.141Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - msg: ReferenceError: Can't find variable: ytcfg
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-11-18T03:57:52.141Z] Session [edfef4c0-ad40-11e6-8ff2-f184216f7888] - page.onError - stack:
+  global code (https://www.youtube.com/embed/PUYlPgJmqCA?autoplay=0&enablejsapi=1&wmode=opaque:10)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-11-18T04:01:45.454Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T04:06:45.454Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T04:11:45.455Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T04:16:45.455Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T04:21:45.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T04:26:45.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T04:31:45.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T04:36:45.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T04:41:45.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T04:46:45.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T04:51:45.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T04:56:45.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T05:01:45.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T05:06:45.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T05:11:45.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T05:16:45.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T05:21:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T05:26:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T05:31:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T05:36:45.456Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T05:41:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T05:46:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T05:51:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T05:56:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T06:01:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T06:06:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T06:11:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T06:16:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T06:21:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T06:26:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T06:31:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T06:36:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T06:41:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T06:46:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T06:51:45.457Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T07:50:57.670Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T07:55:57.670Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T08:00:57.670Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T08:05:57.670Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T08:10:57.670Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T08:15:57.670Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T08:20:57.670Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T08:25:56.739Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T08:30:56.739Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T08:35:56.740Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T08:40:56.739Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T08:45:56.740Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-11-18T18:41:03.413Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
